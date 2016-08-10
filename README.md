@@ -1,2 +1,6 @@
 # hello-world
-The tutorial..... yay!
+
+Hi everyone!
+
+My name is Heather, I've been programming for about a year and a half and I've interned at Amazon and Microsoft. 
+I LOVE open source!
